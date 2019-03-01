@@ -4,6 +4,57 @@ body {
     background-color: #ffffff
 } */
 
+header {
+  width: 900px;
+  height: 70px;
+  margin: 40px auto 0 auto;
+  padding: 00px;
+  float: left;
+}
+
+ header p {
+float: left;
+font-family: arial, sans-serif;
+font-size: 10px;
+}
+
+
+ header img {
+  float: left;
+  margin-right: 10px;
+}
+
+ header div div {
+  float: left;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+ nav {
+float: right;
+width: 50%;
+/* padding: 20px; */
+}
+
+ nav img {
+  margin: right 2px;
+}
+
+ nav div {
+  float: right;
+  width: 150px;
+  height: 25px;
+  margin-right: 6px;
+}
+
+ nav li {
+  display: inline-block;
+  padding: 0px 0;
+
+    margin-right: -8px;
+  
+
+ } 
 form {
     background-image:url('/img/list-bg.png');
     width: 800px;
@@ -18,57 +69,5 @@ div.left {
     width: 40%;
     float: left;
     margin-left: 50px;
-
-header {
-  width: 900px;
-  height: 70px;
-  margin: 40px auto 0 auto;
-  padding: 00px;
-  float: left;
-}
-
-header p {
-float: left;
-font-family: arial, sans-serif;
-font-size: 10px;
-}
-
-
-header img {
-  float: left;
-  margin-right: 10px;
-}
-
-header div div {
-  float: left;
-  width: 200px;
-  margin-bottom: 10px;
-}
-
-nav {
-float: right;
-width: 50%;
-/* padding: 20px; */
-}
-
-nav img {
-  margin: right 2px;
-}
-
-nav div {
-  float: right;
-  width: 150px;
-  height: 25px;
-  
-  margin-right: 6px;
-}
-
-nav li {
-display: inline-block;
-padding: 10px 0;
-
-margin-right: -10px;
-
-
 
 }
