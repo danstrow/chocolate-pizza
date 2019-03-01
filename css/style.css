@@ -38,14 +38,15 @@ nav div {
   float: right;
   width: 150px;
   height: 25px;
+  
   margin-right: 6px;
 }
 
 nav li {
 display: inline-block;
-padding: 0px 0;
+padding: 10px 0;
 
-margin-right: -4px;
-padding: 0px;
+margin-right: -10px;
+
 
 }
